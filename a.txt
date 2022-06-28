@@ -1,2 +1,7 @@
 Auteração legal
+<<<<<<< HEAD
 Novos códigos
+=======
+
+Códigos branch 01
+>>>>>>> branch01
